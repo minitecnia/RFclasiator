@@ -36,7 +36,6 @@ logger.warning(f"Signal: {fichero}")
 logger.warning(f"Image shape (rows, cols): {img.shape}")
 
 imgcol = img.shape[1]
-imgrow = 260
 
 imgnoise = []
 for i in range(img.shape[0]):
