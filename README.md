@@ -5,5 +5,5 @@ Deep Learning algorithm for RF Signal detection and classification
 
 Go to analyzer folder and type:
 
-$ python clasiator.py --file \<spectrum file\>
+$ python RFclasiator.py --file \<spectrum file\>
 
