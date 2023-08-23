@@ -9,9 +9,7 @@ Go to notebook folder and use RFtraining.ipynb jupyter notebook.
 
 ### With Jupyter Notebook
 
-Go to notebook folder and: 
-Open RFTraining.ipynb to train models.
-Open NClasiator.ipynb for predicting signals with noise.
+Go to notebook folder and open NClasiator.ipynb for predicting signals with noise.
 
 ### With python
 
